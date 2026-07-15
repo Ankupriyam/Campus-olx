@@ -4,7 +4,7 @@ Campus OLX is a secure, localized, campus-exclusive marketplace platform designe
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Glassmorphic Single Page Application (SPA):** Built using Vanilla HTML, CSS, and JS with a premium neon dark theme and smooth micro-animations.
 * **Dual-Dropdown Usage Tracking:** Allows sellers to specify the exact age of their items using separate dropdowns for **Years (0 to 5)** and **Months (0 to 12)**.
@@ -17,7 +17,7 @@ Campus OLX is a secure, localized, campus-exclusive marketplace platform designe
 
 ---
 
-## 🛠️ System Architecture
+## System Architecture
 
 ### 1. Frontend (Client-Side)
 * **HTML5 & CSS3:** Responsive UI using CSS Grid and Flexbox with zero CSS frameworks, relying on a unified CSS custom property design system.
@@ -42,7 +42,7 @@ Campus OLX is a secure, localized, campus-exclusive marketplace platform designe
 
 ---
 
-## 📦 Tech Stack Summary
+##  Tech Stack Summary
 
 | Tool/Library | Purpose |
 | :--- | :--- |
@@ -57,7 +57,7 @@ Campus OLX is a secure, localized, campus-exclusive marketplace platform designe
 
 ---
 
-## ⚙️ Running Locally
+##  Running Locally
 
 1. **Prerequisites:**
    * Python 3.10+
@@ -68,9 +68,3 @@ Campus OLX is a secure, localized, campus-exclusive marketplace platform designe
    python server.py
    ```
    *The server runs at `http://localhost:3001`.*
-
-3. **Open the App:**
-   * Simply double-click `index.html` or serve it locally.
-   * Log in with the pre-seeded demo seller:
-     * **Username:** `demo_seller`
-     * **Password:** `demo123`
