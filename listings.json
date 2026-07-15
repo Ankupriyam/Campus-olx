@@ -1,0 +1,92 @@
+[
+  {
+    "id": "33a609fb-a6f7-464a-92c5-9ef636f4bb99",
+    "title": "Cycle",
+    "category": "Sports",
+    "price": 10000.0,
+    "description": "This is a good cycle.",
+    "seller_id": "8800877c-cba9-4777-b155-4aae4e3e9020",
+    "seller_name": "anku8",
+    "seller_phone": "+91 9999999999",
+    "location": "Kurukshetra",
+    "sold": false,
+    "sold_on": null,
+    "photos": [
+      "http://localhost:3001/uploads/ab63f51c-2007-421c-9e1c-d2bfb22d6660_cyecle2.jpeg"
+    ],
+    "created_at": "2026-07-11",
+    "usage_duration": "8 months"
+  },
+  {
+    "id": "7a0ff3aa-9388-491a-9153-70509fd7ee3c",
+    "title": "Earbuds",
+    "category": "Electronics",
+    "price": 3500.0,
+    "description": "One plus buds 3",
+    "seller_id": "8800877c-cba9-4777-b155-4aae4e3e9020",
+    "seller_name": "anku8",
+    "seller_phone": "+91 9999999999",
+    "location": "Kurukshetra",
+    "sold": false,
+    "sold_on": null,
+    "photos": [
+      "http://localhost:3001/uploads/e54dd605-765c-49a8-a22b-6252c2ddfbfa_onplus.jpeg"
+    ],
+    "created_at": "2026-07-11",
+    "usage_duration": "3 months"
+  },
+  {
+    "id": "0b08d692-0977-4978-a869-353971c7c4cb",
+    "title": "Python book",
+    "category": "Books",
+    "price": 2000.0,
+    "description": "This is the best book to learn about python.",
+    "seller_id": "8800877c-cba9-4777-b155-4aae4e3e9020",
+    "seller_name": "anku8",
+    "seller_phone": "+91 9999999999",
+    "location": "Kurukshetra",
+    "sold": false,
+    "sold_on": null,
+    "photos": [
+      "http://localhost:3001/uploads/132187fa-2ebe-49c2-809b-149c76728019_book.jpeg"
+    ],
+    "created_at": "2026-07-11",
+    "usage_duration": "1 year 2 months"
+  },
+  {
+    "id": "fb81fcb3-1ed4-4611-b990-c257d79252ae",
+    "title": "Asus TUF A15",
+    "category": "Electronics",
+    "price": 75000.0,
+    "description": "This is a gaming laptop",
+    "seller_id": "c4e586d4-3fc2-4d76-9c9e-cff370be7b4e",
+    "seller_name": "Anku",
+    "seller_phone": "999999999",
+    "location": "Kurukshetra",
+    "sold": false,
+    "sold_on": null,
+    "photos": [
+      "http://localhost:3001/uploads/374beee0-aafc-4a23-8afe-79bfce02ae36_asustuf151.webp",
+      "http://localhost:3001/uploads/4cb2f95e-7a92-4fc9-adec-9644574ae2cd_asustuf15.webp"
+    ],
+    "created_at": "2026-03-21",
+    "usage_duration": "1 year 6 months"
+  },
+  {
+    "id": "1148d97e-2e0b-4e58-a9a0-58a9167dc055",
+    "seller_id": "40a294e8-9154-4e26-804d-c605463173ab",
+    "seller_name": "anku1",
+    "title": "Laptop",
+    "category": "Electronics",
+    "price": 75000.0,
+    "description": "This is a Asus TUF gaming laptop. It was bought 1 years ago",
+    "location": "Kurukshetra",
+    "sold": false,
+    "photos": [
+      "http://localhost:3001/uploads/e43ab875-6fe6-4f85-892c-3d3dcc256bd4_asustuf151.webp",
+      "http://localhost:3001/uploads/5a88b4fe-5d50-4c9c-8544-ef55e525bdfd_asustuf15.webp"
+    ],
+    "created_at": "2026-03-21",
+    "usage_duration": "2 years 4 months"
+  }
+]
